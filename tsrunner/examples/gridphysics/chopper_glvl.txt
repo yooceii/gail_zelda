@@ -1,0 +1,32 @@
+LevelMapping
+    p > troposphere 
+    A > avatar stratosphere 
+    a > portalAmmo stratosphere 
+    b > portalBase troposphere 
+    r > rightCloud stratosphere 
+    c > satellite thermosphere 
+    s > stratosphere 
+    t > thermosphere 
+    d > fastLeftCloud stratosphere 
+    e > fastRightCloud stratosphere 
+    w > wall 
+    l > leftCloud stratosphere 
+
+LevelDescription
+wwwwwwwwwwwwwwwwww
+w la  t          w
+w                w
+w    w           w
+w et     a       w
+w  c  s  s  t    w
+w      b      d  w
+w d   a          w
+w    t c rt  p   w
+w      d         w
+w      a         w
+w       b        w
+w   e lpaw s     w
+w        b  A    w
+w     w          w
+w                w
+wwwwwwwwwwwwwwwwww

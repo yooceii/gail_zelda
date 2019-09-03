@@ -1,0 +1,25 @@
+LevelMapping
+    A > floor avatarNormal 
+    1 > floor redcoat 
+    r > floor redWall 
+    b > floor blueWall 
+    2 > floor bluecoat 
+    t > floor trap 
+    w > floor normalWall 
+    x > floor exit 
+    . > floor 
+
+LevelDescription
+wwwwwwwwwwwww
+w 2      b  w
+wb          w
+w      .    w
+w    t  x   w
+w r   .   b w
+w w  A      w
+w           w
+w. t r   1  w
+w  x     .  w
+w        b  w
+w.          w
+wwwwwwwwwwwww

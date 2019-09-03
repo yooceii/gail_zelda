@@ -1,0 +1,16 @@
+LevelMapping
+    A > background avatar 
+    c > background box 
+    w > wall 
+    x > background water 
+    . > background 
+    o > background door 
+
+LevelDescription
+wwwwwww
+woA  ww
+w.   cw
+wx    w
+w     w
+w     w
+wwwwwww
